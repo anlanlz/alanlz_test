@@ -1,0 +1,5 @@
+2022-03-28 16:32:27.910 | 连接服务器: ws://127.0.0.1:17580
+2022-03-28 16:32:27.911 | [注册监听消息] - {'code': 0, 'identity': 2, 'message': '成功', 'msgtype': 3001, 'reqid': 1, 'time': 1648456347, 'version': 1}
+2022-03-28 16:32:37.696 | [任务进度更新] - {'code': 0, 'data': {'excutenum': 1, 'failnum': 0, 'finishcount': 1, 'finishtime': '2022-03-28 16:32:36', 'invalidnum': 0, 'starttime': '2022-03-28 16:31:36', 'status': 2, 'successnum': 0, 'taskid': '202203281631360008', 'taskitem': [{'fromid': '1688857247275400', 'result': 1, 'status': 2, 'toid': '1688857247275400'}], 'totalcount': 1}, 'identity': 2, 'message': '', 'msgtype': 26, 'reqid': 1, 'time': 1648456357, 'version': 100}
+2022-03-28 16:33:47.009 | [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2022-03-28 16:33:47.010 | 连接断开
